@@ -43,3 +43,20 @@ This project showcases a visually engaging and interactive webpage built with Re
 - **CSS:** Custom styles with TailwindCSS-like utility classes.
 
 ---
+
+## Screenshots
+
+### Hero
+![Hero](./screenshots/hero.png "Hero Screenshot")
+
+### About
+![About](./screenshots/about.png "About Screenshot")
+
+### Animated Cards
+![Animated Cards](./screenshots/cards.png "Animated Cards Screenshot")
+
+### Story
+![Story](./screenshots/story.png "Story Screenshot")
+
+### Contact
+![Contact](./screenshots/contact.png "Contact Screenshot")
