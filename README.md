@@ -56,7 +56,7 @@ This project showcases a visually engaging and interactive webpage built with Re
 ![Animated Cards](./screenshots/cards.png "Animated Cards Screenshot")
 
 ### Story
-![Story](./screenshots/story.png "Story Screenshot")
+![Story](./screenshots/Story.png "Story Screenshot")
 
 ### Contact
 ![Contact](./screenshots/contact.png "Contact Screenshot")
